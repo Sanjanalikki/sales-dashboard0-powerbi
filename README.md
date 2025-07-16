@@ -12,7 +12,9 @@ An interactive Power BI dashboard to analyze weekly sales across regions and pro
 ## 📁 Files
 - `C:\Users\PC\Desktop\powerbi\dashboard0` – Power BI report
 - `C:\Users\PC\Desktop\powerbi\Sales_Data_PowerBI` – dataset
-– Screenshot ![Dashboard Preview](dashboard0p.png)
+– Screenshot
+
+ ![Dashboard Preview](dashboard0p.png)
 
 
 - ---
